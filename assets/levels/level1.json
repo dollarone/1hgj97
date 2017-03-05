@@ -1,0 +1,44 @@
+{ "height":16,
+ "layers":[
+        {
+         "compression":"zlib",
+         "data":"eJxjZGBgYCSAOYkQ4yXCHELmySBhRiQaH5Yhwn1CQMxMAmYiIIZNnhLzeJDcOljch+wmbOGLLc5l0dTLopnBS8A8ctMfMptc\/wojmcFFhfDDhYn1L6lplpD7SE0ThMwTxhL\/5GJS0wM1zQMAo0UELw==",
+         "encoding":"base64",
+         "height":16,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"right-down",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"..\/..\/static\/assets\/tiles.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"tiles",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
+        }],
+ "tilewidth":32,
+ "version":1,
+ "width":20
+}
